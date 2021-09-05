@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Human Activity Recognition</string>
+    <string name="accel">Accelerometers</string>
+    <string name="accel_x">x:</string>
+    <string name="accel_y">y:</string>
+    <string name="accel_z">z:</string>
+    <string name="bvp_label">PPG</string>
+    <string name="emptyText">-</string>
+    <string name="temp_label">Temperature</string>
+    <string name="battery_label">Battery</string>
+    <string name="HAR">Activity Probability</string>
+    <string name="split">------------------------------------------------------------</string>
+</resources>

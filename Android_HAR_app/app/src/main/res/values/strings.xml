@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HAR</string>
+    <string name="uint8">Uint8 Model Prediction</string>
+
+</resources>
